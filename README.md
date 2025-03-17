@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shashank Gupta and I'm a UI/UX designe and Front-end Web Developer, from India.</h2>
+<h2 align="left">Hi 👋! My name is Shashank Gupta and I'm a UI/UX designer and Front-end Web Developer, from India.</h2>
 
 ###
 
