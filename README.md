@@ -47,8 +47,9 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Shashank23codes/Shashank23codes/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<img width="100%" src="https://i.pinimg.com/originals/a3/27/97/a327975f9b1225b12dc5395fcc32fffa.gif" alt="new animation" />
+</div>
 
 ###
 
