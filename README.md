@@ -1,5 +1,5 @@
-<h2 align="left">🎨 UI/UX Designer | 💻 Web Developer | 🚀 Open to Work
-Passionate about crafting seamless user experiences and building modern, responsive websites. I love turning ideas into interactive digital products. Currently exploring MERN stack and refining my UI/UX design skills.
+<h2 align="left">🎨 UI/UX Designer | 💻 Web Developer | 🚀 Open to Work <br/><br/>
+Passionate about crafting seamless user experiences and building modern, responsive websites. I love turning ideas into interactive digital products. Currently exploring MERN stack and refining my UI/UX design skills.<br/><br/>
 Let’s collaborate — I’m open to freelance, full-time, and creative opportunities!
 </h2>
 
