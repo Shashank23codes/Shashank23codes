@@ -25,7 +25,7 @@
 - 💻 Frontend: Responsive Design, Interactive Interfaces
 - 🛠 Backend: API Development, Database Management
 
-<img align="right" height="300" src="https://i.pinimg.com/originals/23/2d/80/232d800fa7fc5859ad29672d6e783fc1.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/23/2d/80/232d800fa7fc5859ad29672d6e783fc1.gif"  />
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
