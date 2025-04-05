@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Shashank Gupta and I'm a UI/UX designer and Front-end Web Developer, from India.</h2>
+<h2 align="left">🎨 UI/UX Designer | 💻 Web Developer | 🚀 Open to Work
+Passionate about crafting seamless user experiences and building modern, responsive websites. I love turning ideas into interactive digital products. Currently exploring MERN stack and refining my UI/UX design skills.
+Let’s collaborate — I’m open to freelance, full-time, and creative opportunities!
+</h2>
 
 ###
 
