@@ -30,6 +30,8 @@
           <a href="mailto:shashankgupta4068@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="100%" valign="center" align="center">
         <!-- User Requested Anime Image -->
         <img src="https://i.pinimg.com/736x/24/aa/3e/24aa3ec9dc0053af816a6a1d6fcc3809.jpg" width="100%" alt="Anime Aesthetic" style="border-radius: 15px;" />
