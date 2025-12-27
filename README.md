@@ -34,7 +34,7 @@
     <tr>
       <td width="100%" valign="center" align="center">
         <!-- User Requested Anime Image -->
-        <img src="https://i.pinimg.com/736x/24/aa/3e/24aa3ec9dc0053af816a6a1d6fcc3809.jpg" width="100%" alt="Anime Aesthetic" style="border-radius: 15px;" />
+        <img src="https://i.pinimg.com/736x/24/aa/3e/24aa3ec9dc0053af816a6a1d6fcc3809.jpg" width="100%" rotate="90" alt="Anime Aesthetic" style="border-radius: 15px;" />
       </td>
     </tr>
   </table>
