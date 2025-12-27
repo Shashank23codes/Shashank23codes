@@ -1,5 +1,8 @@
+<h1 align="center">👋 Hi, I'm Shashank</h1>
+<h3 align="center">🎨 UI/UX Designer & 💻 Full Stack Web Developer</h3>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Shashank%20Gupta&fontSize=90&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20%26%20Web%20Developer%20%7C%20Anime%20Enthusiast&descAlignY=51&descAlign=62" alt="Shashank Gupta Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=&fontSize=90&animation=fadeIn" alt="Header Waving" width="100%" />
 </div>
 
 <div align="center">
@@ -28,7 +31,8 @@
         </div>
       </td>
       <td width="40%" valign="center" align="center">
-        <img src="https://media.giphy.com/media/L1R1TVTh2Rht157qAh/giphy.gif" width="100%" alt="Anime Coding Gif" />
+        <!-- User Requested Anime Image -->
+        <img src="https://i.pinimg.com/736x/24/aa/3e/24aa3ec9dc0053af816a6a1d6fcc3809.jpg" width="100%" alt="Anime Aesthetic" style="border-radius: 15px;" />
       </td>
     </tr>
   </table>
@@ -91,9 +95,35 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
+        <h3 align="center">🥗 Omnifood</h3>
+        <a href="https://github.com/Shashank23codes/Food-project">
+          <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="100%" alt="Omnifood" style="border-radius: 10px;" />
+        </a>
+        <br/><br/>
+        <p align="center">Premium healthy meal delivery website.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎬 Movie Search</h3>
+        <a href="https://github.com/Shashank23codes/Movie-Search-App">
+          <img src="https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="100%" alt="Movie App" style="border-radius: 10px;" />
+        </a>
+        <br/><br/>
+        <p align="center">Dynamic movie discovery app with ratings.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/API-000000?style=flat-square&logo=json&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
         <h3 align="center">☕ Coffee Shop</h3>
         <a href="https://github.com/Shashank23codes/coffee-shop">
-           <img src="https://your-coffee-project-url-placeholder.com" onerror="this.src='https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80'" width="100%" alt="Coffee Shop" style="border-radius: 10px;" />
+           <img src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="100%" alt="Coffee Shop" style="border-radius: 10px;" />
         </a>
         <br/><br/>
         <p align="center">Aesthetic landing page for coffee lovers.</p>
@@ -105,7 +135,7 @@
        <td width="50%" valign="top">
         <h3 align="center">💧 Mineral Water</h3>
         <a href="https://github.com/Shashank23codes/Mineral-Water">
-           <img src="https://your-water-project-url-placeholder.com" onerror="this.src='https://images.unsplash.com/photo-1564419320461-6870880221ad?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80'" width="100%" alt="Mineral Water" style="border-radius: 10px;" />
+           <img src="https://images.unsplash.com/photo-1564419320461-6870880221ad?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" width="100%" alt="Mineral Water" style="border-radius: 10px;" />
         </a>
         <br/><br/>
          <p align="center">Brand promotion page for mineral water.</p>
