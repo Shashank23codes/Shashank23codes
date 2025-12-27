@@ -19,17 +19,27 @@
 
 ###
 
-<h3 align="left">🎯 What I Do</h3>
+<div align="center">
+  <h3>🎯 What I Do</h3>
+  <table>
+    <tr>
+      <td valign="center" width="50%">
+        <ul align="left">
+          <li>🎨 <strong>UI/UX Design:</strong> Wireframing, Prototyping, User Research</li>
+          <li>💻 <strong>Frontend:</strong> Responsive Design, Interactive Interfaces</li>
+          <li>🛠 <strong>Backend:</strong> API Development, Database Management</li>
+        </ul>
+      </td>
+      <td align="center" width="50%">
+        <img height="180" src="https://i.pinimg.com/originals/23/2d/80/232d800fa7fc5859ad29672d6e783fc1.gif" alt="coding gif" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🎨 UI/UX Design: Wireframing, Prototyping, User Research
-- 💻 Frontend: Responsive Design, Interactive Interfaces
-- 🛠 Backend: API Development, Database Management
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/23/2d/80/232d800fa7fc5859ad29672d6e783fc1.gif"  />
-
-<h3 align="left">🛠️ Tech Stack</h3>
-
-<div align="left" style="margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
   <table>
     <tr>
       <td align="center" width="96">
@@ -130,7 +140,7 @@
   </table>
 </div>
 
-<div align="left">
+<div align="center">
   <h4>Additional Skills</h4>
   <img src="https://img.shields.io/badge/UI%20Design-black?style=for-the-badge&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/UX%20Research-black?style=for-the-badge&logo=research&logoColor=white" />
