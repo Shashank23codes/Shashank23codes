@@ -15,7 +15,7 @@
   
   <table>
     <tr>
-      <td width="60%" valign="top">
+      <td width="100%" valign="top">
         <h2 align="center">👨‍💻 About Me</h2>
         <p>
            Hi, I'm <strong>Shashank</strong>! A passionate Full Stack Developer and UI/UX Designer from India. I blend technical expertise with creative design to build immersive web experiences. When I'm not coding, you'll find me binge-watching anime or reading manga.
@@ -30,7 +30,7 @@
           <a href="mailto:shashankgupta4068@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
         </div>
       </td>
-      <td width="40%" valign="center" align="center">
+      <td width="100%" valign="center" align="center">
         <!-- User Requested Anime Image -->
         <img src="https://i.pinimg.com/736x/24/aa/3e/24aa3ec9dc0053af816a6a1d6fcc3809.jpg" width="100%" alt="Anime Aesthetic" style="border-radius: 15px;" />
       </td>
