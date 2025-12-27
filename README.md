@@ -1,223 +1,125 @@
-<h1 align="center">👋 Hi, I'm Shashank</h1>
-
-<h2 align="center">🎨 UI/UX Designer & 💻 Full Stack Web Developer</h2>
-
-<p align="center">
-  Crafting digital experiences that blend beautiful design with powerful functionality. Specialized in creating user-centered, responsive web solutions that drive engagement and deliver results.
-</p>
-
-<p align="center">
-  🚀 Currently exploring MERN Stack | 🎯 Open to Work | 💡 Available for Collaboration
-</p>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashank23codes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashank23codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <h3>🎯 What I Do</h3>
-  <table>
-    <tr>
-      <td valign="center" width="50%">
-        <ul align="left">
-          <li>🎨 <strong>UI/UX Design:</strong> Wireframing, Prototyping, User Research</li>
-          <li>💻 <strong>Frontend:</strong> Responsive Design, Interactive Interfaces</li>
-          <li>🛠 <strong>Backend:</strong> API Development, Database Management</li>
-        </ul>
-      </td>
-      <td align="center" width="50%">
-        <img height="180" src="https://i.pinimg.com/originals/23/2d/80/232d800fa7fc5859ad29672d6e783fc1.gif" alt="coding gif" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<div align="center" style="margin: 20px 0;">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="#javascript">
-          <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <a href="#typescript">
-          <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        </a>
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <a href="#react">
-          <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        </a>
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <a href="#nodejs">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
-        </a>
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <a href="#express">
-          <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        </a>
-        <br>Express
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="#html5">
-          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        </a>
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <a href="#css3">
-          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        </a>
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <a href="#sass">
-          <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-        </a>
-        <br>Sass
-      </td>
-      <td align="center" width="96">
-        <a href="#tailwind">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        </a>
-        <br>Tailwind
-      </td>
-      <td align="center" width="96">
-        <a href="#bootstrap">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-        </a>
-        <br>Bootstrap
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="#mongodb">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        </a>
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <a href="#mysql">
-          <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        </a>
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <a href="#figma">
-          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        </a>
-        <br>Figma
-      </td>
-      <td align="center" width="96">
-        <a href="#xd">
-          <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="Adobe XD" />
-        </a>
-        <br>Adobe XD
-      </td>
-      <td align="center" width="96">
-        <a href="#git">
-          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        </a>
-        <br>Git
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Shashank%20Gupta&fontSize=90&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20%26%20Web%20Developer%20%7C%20Anime%20Enthusiast&descAlignY=51&descAlign=62" alt="Shashank Gupta Header" width="100%" />
 </div>
 
 <div align="center">
-  <h4>Additional Skills</h4>
-  <img src="https://img.shields.io/badge/UI%20Design-black?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/UX%20Research-black?style=for-the-badge&logo=research&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Development-black?style=for-the-badge&logo=fastapi&logoColor=white" />
-</div>
-
-###
-
-<h3 align="left">🚀 Featured Projects</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <a href="https://github.com/Shashank23codes/Food-project"><h3>🥗 Omnifood</h3></a>
-        <p>A premium, responsive website for a healthy meal delivery service, focusing on modern design and user experience.</p>
-        <p><strong>Tech:</strong> HTML5, CSS3, Responsive Design</p>
-      </td>
-      <td align="center" width="300">
-        <a href="https://github.com/Shashank23codes/Movie-Search-App"><h3>🎬 Movie Search App</h3></a>
-        <p>A dynamic web application allowing users to search for movies, view details, and ratings using a public movie API.</p>
-        <p><strong>Tech:</strong> JavaScript, API Integration</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="300">
-        <a href="https://github.com/Shashank23codes/coffee-shop"><h3>☕ Coffee Shop Website</h3></a>
-        <p>A beautifully designed landing page for a coffee shop, featuring modern aesthetics and smooth layouts.</p>
-        <p><strong>Tech:</strong> JavaScript, CSS3, HTML5</p>
-      </td>
-      <td align="center" width="300">
-        <a href="https://github.com/Shashank23codes/Mineral-Water"><h3>💧 Mineral Water Brand</h3></a>
-        <p>A promotional website for a mineral water brand, showcasing product details and brand identity.</p>
-        <p><strong>Tech:</strong> JavaScript, HTML, CSS</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-###
-
-<h2 align="center">🤝 Let's Connect!</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/shashank-gupta-238a96209" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank23codes&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shashankgupta4068@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+  
+  <br/><br/>
+  
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        <h2 align="center">👨‍💻 About Me</h2>
+        <p>
+           Hi, I'm <strong>Shashank</strong>! A passionate Full Stack Developer and UI/UX Designer from India. I blend technical expertise with creative design to build immersive web experiences. When I'm not coding, you'll find me binge-watching anime or reading manga.
+        </p>
+        <p align="center">
+          🚀 <strong>Focus:</strong> MERN Stack & Next.js<br>
+          🎨 <strong>Style:</strong> Minimalist, Glassmorphism, Anime-inspired<br>
+          🎌 <strong>Vibe:</strong> Otaku Developer
+        </p>
+        <div align="center">
+          <a href="https://www.linkedin.com/in/shashank-gupta-238a96209" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+          <a href="mailto:shashankgupta4068@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+        </div>
+      </td>
+      <td width="40%" valign="center" align="center">
+        <img src="https://media.giphy.com/media/L1R1TVTh2Rht157qAh/giphy.gif" width="100%" alt="Anime Coding Gif" />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 <br/>
+
+<div align="center">
+  <h2>🛠️ Tech Arsenal</h2>
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,sass,bootstrap,js,ts,git,figma,xd,ps,ai&perline=10&theme=dark" alt="Tech Stack Properties" />
+</div>
+
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank23codes&theme=dracula" alt="GitHub Streak Stats" />
+  <h2>📊 GitHub Stats</h2>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Shashank23codes&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ff97&icon_color=79ff97" alt="Shashank's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashank23codes&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ff97&icon_color=79ff97" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shashank23codes&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
+<br/>
 
-###
-
-<br clear="both">
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a3/27/97/a327975f9b1225b12dc5395fcc32fffa.gif" width="100%" alt="coding animation" />
+  <h2>🍱 Featured Projects (Bento Style)</h2>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🥗 Omnifood</h3>
+        <a href="https://github.com/Shashank23codes/Food-project">
+          <img src="https://your-food-project-banner-url-placeholder.com" onerror="this.src='https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80'" width="100%" alt="Omnifood" style="border-radius: 10px;" />
+        </a>
+        <br/><br/>
+        <p align="center">Premium healthy meal delivery website.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎬 Movie Search</h3>
+        <a href="https://github.com/Shashank23codes/Movie-Search-App">
+          <img src="https://your-movie-app-banner-url-placeholder.com" onerror="this.src='https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80'" width="100%" alt="Movie App" style="border-radius: 10px;" />
+        </a>
+        <br/><br/>
+        <p align="center">Dynamic movie discovery app with ratings.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/API-000000?style=flat-square&logo=json&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">☕ Coffee Shop</h3>
+        <a href="https://github.com/Shashank23codes/coffee-shop">
+           <img src="https://your-coffee-project-url-placeholder.com" onerror="this.src='https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80'" width="100%" alt="Coffee Shop" style="border-radius: 10px;" />
+        </a>
+        <br/><br/>
+        <p align="center">Aesthetic landing page for coffee lovers.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/Design-FF61F6?style=flat-square&logo=figma&logoColor=white" />
+        </p>
+      </td>
+       <td width="50%" valign="top">
+        <h3 align="center">💧 Mineral Water</h3>
+        <a href="https://github.com/Shashank23codes/Mineral-Water">
+           <img src="https://your-water-project-url-placeholder.com" onerror="this.src='https://images.unsplash.com/photo-1564419320461-6870880221ad?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80'" width="100%" alt="Mineral Water" style="border-radius: 10px;" />
+        </a>
+        <br/><br/>
+         <p align="center">Brand promotion page for mineral water.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Frontend-000000?style=flat-square&logo=vercel&logoColor=white" />
+           <img src="https://img.shields.io/badge/Ani-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+<br/>
 
-<h3 align="center">📈 Currently Working On</h3>
-<p align="center">
-  🌟 Building a comprehensive <b>Anime Social Platform</b> with React & Vite<br>
-  🎨 Crafting a <b>Farmhouse Booking System</b> with complex Vendor/Admin workflows<br>
-  💼 Expanding my expertise in <b>Scalable MERN Architecture</b>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&animation=fadeIn&fontAlignY=40" width="100%" />
+</div>
