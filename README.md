@@ -156,26 +156,26 @@
   <table>
     <tr>
       <td align="center" width="300">
-        <h3>🎌 AnimeHub</h3>
-        <p>A vibrant social media platform tailored for anime enthusiasts in India, featuring manga reading, video shorts, and community discussions.</p>
-        <p><strong>Tech:</strong> React, Vite, Glassmorphism UI</p>
-      </td>
-      <td align="center" width="300">
-        <h3>🥗 Omnifood</h3>
+        <a href="https://github.com/Shashank23codes/Food-project"><h3>🥗 Omnifood</h3></a>
         <p>A premium, responsive website for a healthy meal delivery service, focusing on modern design and user experience.</p>
         <p><strong>Tech:</strong> HTML5, CSS3, Responsive Design</p>
+      </td>
+      <td align="center" width="300">
+        <a href="https://github.com/Shashank23codes/Movie-Search-App"><h3>🎬 Movie Search App</h3></a>
+        <p>A dynamic web application allowing users to search for movies, view details, and ratings using a public movie API.</p>
+        <p><strong>Tech:</strong> JavaScript, API Integration</p>
       </td>
     </tr>
     <tr>
       <td align="center" width="300">
-        <h3>🏡 Farmhouse Booking</h3>
-        <p>A comprehensive platform for booking farmhouses, complete with Vendor and Admin dashboards for management.</p>
-        <p><strong>Tech:</strong> MERN Stack (MongoDB, Express, React, Node)</p>
+        <a href="https://github.com/Shashank23codes/coffee-shop"><h3>☕ Coffee Shop Website</h3></a>
+        <p>A beautifully designed landing page for a coffee shop, featuring modern aesthetics and smooth layouts.</p>
+        <p><strong>Tech:</strong> JavaScript, CSS3, HTML5</p>
       </td>
       <td align="center" width="300">
-        <h3>🎱 2.5D 8-Ball Pool</h3>
-        <p>An interactive web-based pool game featuring realistic physics and custom game logic.</p>
-        <p><strong>Tech:</strong> JavaScript, HTML5 Canvas</p>
+        <a href="https://github.com/Shashank23codes/Mineral-Water"><h3>💧 Mineral Water Brand</h3></a>
+        <p>A promotional website for a mineral water brand, showcasing product details and brand identity.</p>
+        <p><strong>Tech:</strong> JavaScript, HTML, CSS</p>
       </td>
     </tr>
   </table>
