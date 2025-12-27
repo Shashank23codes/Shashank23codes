@@ -140,27 +140,48 @@
 
 ###
 
+<h3 align="left">🚀 Featured Projects</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <h3>🎌 AnimeHub</h3>
+        <p>A vibrant social media platform tailored for anime enthusiasts in India, featuring manga reading, video shorts, and community discussions.</p>
+        <p><strong>Tech:</strong> React, Vite, Glassmorphism UI</p>
+      </td>
+      <td align="center" width="300">
+        <h3>🥗 Omnifood</h3>
+        <p>A premium, responsive website for a healthy meal delivery service, focusing on modern design and user experience.</p>
+        <p><strong>Tech:</strong> HTML5, CSS3, Responsive Design</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="300">
+        <h3>🏡 Farmhouse Booking</h3>
+        <p>A comprehensive platform for booking farmhouses, complete with Vendor and Admin dashboards for management.</p>
+        <p><strong>Tech:</strong> MERN Stack (MongoDB, Express, React, Node)</p>
+      </td>
+      <td align="center" width="300">
+        <h3>🎱 2.5D 8-Ball Pool</h3>
+        <p>An interactive web-based pool game featuring realistic physics and custom game logic.</p>
+        <p><strong>Tech:</strong> JavaScript, HTML5 Canvas</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
 <h2 align="center">🤝 Let's Connect!</h2>
 
 <div align="center">
-  <a href="www.linkedin.com/in/shashank-gupta-238a96209" target="www.linkedin.com/in/shashank-gupta-238a96209">
+  <a href="https://www.linkedin.com/in/shashank-gupta-238a96209" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="[Your Behance URL]" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="[Your Dribbble URL]" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:shashankgupta4068@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="[Your Portfolio URL]" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="portfolio logo" />
   </a>
 </div>
 
@@ -186,7 +207,7 @@
 
 <h3 align="center">📈 Currently Working On</h3>
 <p align="center">
-  🌟 Expanding my MERN stack expertise<br>
-  🎨 Building a portfolio of UI/UX case studies<br>
-  💼 Seeking opportunities in innovative web projects
+  🌟 Building a comprehensive <b>Anime Social Platform</b> with React & Vite<br>
+  🎨 Crafting a <b>Farmhouse Booking System</b> with complex Vendor/Admin workflows<br>
+  💼 Expanding my expertise in <b>Scalable MERN Architecture</b>
 </p>
